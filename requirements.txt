@@ -1,0 +1,9 @@
+streamlit
+numpy
+scipy
+librosa
+soundfile
+tensorflow
+scikit-learn
+joblib
+matplotlib
